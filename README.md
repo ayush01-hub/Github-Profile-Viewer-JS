@@ -2,7 +2,7 @@
 
 A simple JavaScript-based web application that fetches and displays a GitHub user's profile information using the GitHub API. This project allows you to enter a GitHub username and view details such as the user's avatar, followers, following, public repositories, and a link to their GitHub profile.
 
-Reach out-[]
+Reach out-[https://ayush01-hub.github.io/Github-Profile-Viewer-JS/]
 
 
 ## Features
